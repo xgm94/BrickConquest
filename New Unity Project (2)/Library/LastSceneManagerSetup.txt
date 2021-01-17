@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/xavie/Downloads/TBT_Game-master/Assets/Scenes/Scene1.unity
+  isLoaded: 1
+  isActive: 1
